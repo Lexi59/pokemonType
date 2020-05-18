@@ -4,7 +4,7 @@
   }
 body{
     font-family: myFirstFont;
-    font-size: x-small;
+    font-size: small;
 }
 h1{
     text-align: center;
@@ -25,7 +25,7 @@ img{
 figure{
     display: block;
     float: left;
-    width: 15%;
+    width: 20%;
     margin:3%;
 }
 figcaption{
@@ -41,7 +41,7 @@ figcaption{
 }
 #list figure{
     float:none;
-    width: 45%;
+    width: 75%;
 }
 #list figure img{
     opacity: 1;
