@@ -4,7 +4,7 @@
   }
 body{
     font-family: myFirstFont;
-    padding: 0 15%;
+    font-size: small;
 }
 h1{
     text-align: center;
@@ -13,7 +13,7 @@ h1{
 }
 ul{
     list-style: none;
-    width: 50%;
+    width: 60%;
     float:left;
 }
 img{
@@ -25,8 +25,8 @@ img{
 figure{
     display: block;
     float: left;
-    width: 17%;
-    margin:1.5%;
+    width: 15%;
+    margin:3%;
 }
 figcaption{
     text-align: center;
@@ -35,12 +35,13 @@ figcaption{
 }
 
 #list{
-    width:30%;
+    width: 25%;
+    padding-top: 5%;
     float:right;
 }
 #list figure{
     float:none;
-    width: 24%;
+    width: 45%;
 }
 #list figure img{
     opacity: 1;
