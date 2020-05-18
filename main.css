@@ -1,0 +1,47 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url('Pokemon\ Solid.ttf');
+  }
+body{
+    font-family: myFirstFont;
+    padding: 0 15%;
+}
+h1{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+    width: 50%;
+    float:left;
+}
+img{
+    width:100%;
+    padding: 0%;
+    margin: 0%;
+    opacity: .2;
+}
+figure{
+    display: block;
+    float: left;
+    width: 17%;
+    margin:1.5%;
+}
+figcaption{
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+#list{
+    width:30%;
+    float:right;
+}
+#list figure{
+    float:none;
+    width: 24%;
+}
+#list figure img{
+    opacity: 1;
+}
